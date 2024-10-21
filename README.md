@@ -1,2 +1,3 @@
 # APAtizer
-The APAtizer is a tool that processes and analyses raw RNA-Seq data to uncover 3’UTR-APA and IPA events using the DaPars2 and APAlyzer algorithms.
+This is not the main repository of APAtizer. Please find APAtizer at https://github.com/GeneRegulationi3S/APAtizer
+
